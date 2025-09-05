@@ -8,4 +8,8 @@
         <UseAppHost>false</UseAppHost>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="Procurement\" />
+    </ItemGroup>
+
 </Project>
